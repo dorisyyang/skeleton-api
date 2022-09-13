@@ -14,6 +14,24 @@ app.get("/api", (req, res) => {
     });
 });
 
+
+app.get("/api/header", async(req, res) => {
+  const headerData = await getFileData('header')
+  res.json({
+    code: 200,
+    data: headerData
+  });
+});
+
+app.get("/api/footer", async(req, res) => {
+  const footerData = await getFileData('footer')
+  res.json({
+    code: 200,
+    data: footerData
+  });
+});
+
+
 app.get("/api/products", async(req, res) => {
   const productsData = await getFileData('products')
   res.json({

@@ -1,1 +1,187 @@
-{}
+[
+    {
+        "title": "Shop",
+        "links": [
+            {
+                "title": "Women’s Eyeglasses",
+                "url": "/eyeglasses/women"
+            },
+            {
+                "title": "Men’s Eyeglasses",
+                "url": "/eyeglasses/men"
+            },
+            {
+                "title": "Affordable Glasses",
+                "url": "/eyeglasses/cheap"
+            },
+            {
+                "title": "Glasses on Sale",
+                "url": "/eyeglasses/onsale"
+            },
+            {
+                "title": "Designer Glasses",
+                "url": "/eyeglasses/designer"
+            },
+            {
+                "title": "Blue-Light Glasses",
+                "url": "/prescription-lens/digital-protection"
+            },
+            {
+                "title": "Progressive Lenses",
+                "url": "/eyeglasses/progressive"
+            },
+            {
+                "title": "Bifocal Reading Glasses",
+                "url": "/eyeglasses/bifocal"
+            },
+            {
+                "title": "Non-Prescription Eyeglasses",
+                "url": "/eyeglasses/non-prescription"
+            },
+            {
+                "title": "Prism Glasses",
+                "url": "/prescription-lens/prism-glasses"
+            },
+            {
+                "title": "Promotions",
+                "url": "/offers"
+            },
+            {
+                "title": "Discount Coupons",
+                "url": "/discount-coupons"
+            }
+        ]
+    },
+    {
+        "title": "Tips & Guides",
+        "links": [
+            {
+                "title": "Fit & Style Eyewear Quiz",
+                "url": "/quiz/glasses-frame-finder"
+            },
+            {
+                "title": "How to Order Glasses Online",
+                "url": "/guides/how-to-buy-prescription-eyeglasses-online"
+            },
+            {
+                "title": "How to Choose Lenses",
+                "url": "/guides/how-to-choose-eyeglass-lenses"
+            },
+            {
+                "title": "Frames for Your Face Shape",
+                "url": "/guides/frames-and-face-shapes"
+            },
+            {
+                "title": "Eye Care Tips",
+                "url": "/eyecare"
+            },
+            {
+                "title": "Help & FAQ",
+                "url": "/faq"
+            },
+            {
+                "title": "Find an Eye Doctor",
+                "url": "/eyecare/find-eye-doctor"
+            },
+            {
+                "title": "Accessibility Statement",
+                "url": "/web-accessibility"
+            },
+            {
+                "title": "FSA & HSA Cover",
+                "url": "/eyecare/can-i-use-fsa-for-glasses"
+            },
+            {
+                "title": "Virtual Try-On",
+                "url": "/virtual-try-on"
+            },
+            {
+                "title": "Pupillary distance (PD)",
+                "url": "/guides/how-to-measure-your-pd"
+            }
+        ]
+    },
+    {
+        "title": "About",
+        "links": [
+            {
+                "title": "About Us",
+                "url": "/about-us"
+            },
+            {
+                "title": "EyeBuyDirect Reviews",
+                "url": "/about-us/reviews"
+            },
+            {
+                "title": "Press Room",
+                "url": "/press"
+            },
+            {
+                "title": "Contact Us",
+                "url": "/contact"
+            },
+            {
+                "title": "Buy 1 Give 1",
+                "url": "/buy-one-give-one"
+            },
+            {
+                "title": "Shipping & Returns",
+                "url": "/shipping-and-returns"
+            },
+            {
+                "title": "Site Map",
+                "url": "/sitemap"
+            },
+            {
+                "title": "Our Blog",
+                "url": "https://www.eyebuydirect.com/blog"
+            },
+            {
+                "title": "Our Vision Experts",
+                "url": "/eyecare/our-vision-experts"
+            }
+        ]
+    },
+    {
+        "title": "Our Programs",
+        "links": [
+            {
+                "title": "Referral Program",
+                "url": "/referral-program"
+            },
+            {
+                "title": "Loyalty Program",
+                "url": "/loyalty-program"
+            },
+            {
+                "title": "Affiliate Program",
+                "url": "/affiliate-program"
+            },
+            {
+                "title": "Student Discount",
+                "url": "/student-discount"
+            },
+            {
+                "title": "Veteran Discount",
+                "url": "/veteran-discount"
+            },
+            {
+                "title": "EyeBuyIcons",
+                "url": "/eyebuyicons"
+            }
+        ]
+    },
+    {
+        "title": "Our Brands",
+        "links": [
+            {
+                "title": "Framesdirect.com",
+                "url": "https://www.framesdirect.com/?utm_source=EBD&utm_medium=link&utm_campaign=multibufooter&utm_content=00100.0001.0001"
+            },
+            {
+                "title": "Readers.com",
+                "url": "https://www.readers.com/?utm_source=EBD&utm_medium=link&utm_campaign=multibufooter&utm_content=00100.0001.0001"
+            }
+        ]
+    }
+]
